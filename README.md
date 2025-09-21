@@ -1,1 +1,1 @@
-# hands-on-llms
+# nextjs-app
