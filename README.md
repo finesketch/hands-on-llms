@@ -1,1 +1,1 @@
-# nextjs-app
+# uw_python_programming
